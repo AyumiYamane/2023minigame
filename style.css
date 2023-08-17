@@ -14,6 +14,7 @@ p {
   font-size: 20px;
   background: rgb(57, 161, 57);
   color: #fff;
+  text-align: center;
   border-radius: 8px;
   padding: 4px;
 }
