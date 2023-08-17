@@ -1,11 +1,12 @@
 @charset "utf-8";
 
 div {
-  text-align: center;
+  margin: 0 auto;
 }
 h1 {
   color: #555;
   font-size: 30px;
+  text-align: center;
 }
 p {
   margin: 0 auto 20px;
@@ -21,7 +22,9 @@ span {
   font-weight: bold;
   margin: 0 8px;
 }
-canvas {    
+canvas {
   border: 3mm ridge rgba(213, 228, 51, 0.6);
   background: rgba(169, 230, 253, 0.5);
+  display: block;
+  margin: 0 auto;
 }
